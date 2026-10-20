@@ -2,6 +2,11 @@
 
 Este projeto é um programa em C que une dois assuntos vistos nas ultimas aulaa: algoritmos de ordenação e manipulação de arquivos. Ele grava números desordenados em um arquivo, lê esses dados, ordena com o algoritmo escolhido pelo usuário e salva o resultado em um novo arquivo.
 
+## Grupo
+- Yuri Bezerra Rodrigues Silva (RGM 47674628)
+- Theo Carlo Oliveira Mosesto (RGM 47676850)
+- Lucas Trevezan Lima (RGM 47656395)
+
 ## Como funciona
 
 Ao iniciar, o programa cria o arquivo `dados.txt` com dez números desordenados. Em seguida, mostra um menu com as opções de ordenar, alterar um valor ou sair.
